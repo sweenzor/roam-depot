@@ -1,8 +1,8 @@
 {
   "name": "Autopin",
   "short_description": "Any block or page added to the Right Sidebar will be automatically pinned",
-  "author": "Matt Sweeney",
+  "author": "Matthew Sweeney",
   "source_url": "https://github.com/sweenzor/roam-autopin",
   "source_repo": "https://github.com/sweenzor/roam-autopin.git",
-  "source_commit": "b74a5f59b1dde108029f1d873cdcc91fdc2b4129"
+  "source_commit": "929736a15af0b9152cb6c6773d4c9e72cf1b2c19"
 }
